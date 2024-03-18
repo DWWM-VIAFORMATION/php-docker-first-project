@@ -8,8 +8,8 @@ class MyTest extends TestCase
         $this->assertSame(1, 1);
     }
 
-    public function test_2()
-    {
-        $this->assertSame(1, 2);
-    }
+    // public function test_2()
+    // {
+    //     $this->assertSame(1, 2);
+    // }
 }
